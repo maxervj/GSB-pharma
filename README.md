@@ -1,5 +1,4 @@
-# GSB Visits Manager
-
+# GSB 
 ## 📋 Description
 Application mobile de gestion des rapports de visites médicales pour le laboratoire GSB. 
 Cette solution permet la centralisation, le suivi et l'analyse de l'activité commerciale pharmaceutique.
